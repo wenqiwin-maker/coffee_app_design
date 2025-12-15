@@ -395,8 +395,8 @@ a {
     display: inline-block;
     margin-top: 32px;
     padding: 14px 28px;
-    background: var(--coffee-primary);
-    color: #ffffff;
+    background: #fff0e7;
+    color: var(--coffee-dark);
     font-size: 16px;
     font-weight: 500;
     text-decoration: none;
@@ -405,7 +405,7 @@ a {
 }
 
 .hero-cta:hover {
-    background: var(--coffee-dark);
+    background: #ffe4d4;
     transform: translateY(-2px);
 }
 
