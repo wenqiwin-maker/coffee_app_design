@@ -186,9 +186,9 @@ a {
 .nav-logo-icon {
     width: 28px;
     height: 28px;
-    color: var(--color-accent);
     transition: transform 0.1s ease-out;
     will-change: transform;
+    transform-origin: center center;
 }
 
 .nav-logo-text {
