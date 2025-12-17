@@ -901,9 +901,14 @@ a {
     color: #0C5460;
 }
 
+.priority-badge.phase1 {
+    background: #E8F4FD;
+    color: #1565C0;
+}
+
 .priority-badge.phase2 {
-    background: #F8D7DA;
-    color: #721C24;
+    background: #E5E5E5;
+    color: #666666;
 }
 
 .priority-desc {
